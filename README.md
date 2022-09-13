@@ -3,7 +3,7 @@
 I'm a full stack Data Scientist
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Aldino! 👋
 
 
 ## 🔗 Links
