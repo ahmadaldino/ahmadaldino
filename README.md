@@ -18,11 +18,11 @@
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
-- [Pemrograman Berbasis Web : Pengenalan HTTP](https://www.belajarstatistik.com/blog/2022/05/25/pengenalan-http/)
-- [Pemrograman Berbasis Web : Dasar-dasar Internet](https://www.belajarstatistik.com/blog/2022/05/24/dasar-dasar-internet/)
-- [Basis Data : Model Relasional dan Pemodelan Relasi Entitas](https://www.belajarstatistik.com/blog/2022/05/23/model-relasional-dan-pemodelan-relasi-entitas/)
-- [Basis Data : Perencanaan dan Perancangan Basis Data](https://www.belajarstatistik.com/blog/2022/05/21/perencanaan-dan-perancangan-basis-data/)
-- [Basis Data : Lingkungan Basis Data](https://www.belajarstatistik.com/blog/2022/05/20/lingkungan-basis-data/)
+- [Sentiment Analysis on Online Transportation Reviews Using Word2Vec Text Embedding Model Feature Extraction and Support Vector Machine (SVM) Algorithm](https://ieeexplore.ieee.org/abstract/document/9742906)
+- [Application of Support Vector Machine (SVM) Algorithm in Classification of Low-Cape Communities](http://ejurnal.seminar-id.com/index.php/bits/article/view/1041)
+- [Comparison Of Market Basket Analysis To Determine Consumer Purchasing Patterns Using Fp-Growth And Apriori Algorithm](https://ieeexplore.ieee.org/abstract/document/9650317)
+- [Decision Tree C4. 5 Algorithm for Tuition Aid Grant Program Classification](https://journal.trunojoyo.ac.id/edutic/article/view/8849)
+- [Implementation of K-Means Algorithm for Clustering Corn Planting Feasibility Area](https://iopscience.iop.org/article/10.1088/1742-6596/1751/1/012038/meta)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
