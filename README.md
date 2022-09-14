@@ -28,6 +28,8 @@
 ## 🔍 You Can Find Me at
 
 <p>
+  <a href="https://ahmadarialdino.github.io/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/ahmadarialdino" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/ahmadarialdino" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="mailto:aldino@teknokrat.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.facebook.com/arialdino" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
