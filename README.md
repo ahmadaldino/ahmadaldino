@@ -1,10 +1,9 @@
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=ahmadarialdino&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-![logo](https://github-readme-stats.vercel.app/api?username=ahmadarialdino&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Aldino 🧑🏻
 
 <p align="justify">
-  I am a bachelor graduate with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+  I am a PhD student in Data Science at Monash University Australia and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
