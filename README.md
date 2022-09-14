@@ -6,12 +6,6 @@
   I am a PhD student in Data Science at Monash University Australia and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
 </p>
 
-<!-- ## 👁‍🗨 Visitors Count -->
-
-![Visitor Count](https://profile-counter.glitch.me/{ahmadarialdino}/count.svg)
-
-<img align='right' src = "https://github.com/ahmadarialdino/github-stats-transparent/blob/output/generated/languages.svg">
-
  ## ⭐ Popular Repositories
 
 | 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
