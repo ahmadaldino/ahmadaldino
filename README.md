@@ -10,7 +10,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/ahmadarialdino/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ Popular Repositories
 
