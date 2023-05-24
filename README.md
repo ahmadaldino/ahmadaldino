@@ -1,4 +1,4 @@
-![logo](https://github-readme-stats.vercel.app/api?username=ahmadaldino&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![logo](https://github-readme-stats.vercel.app/api?username=ahmadarialdino&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Aldino 🧑🏻
 
@@ -19,7 +19,7 @@
 ## 🔍 You Can Find Me at
 
 <p>
-  <a href="https://ahmadaldino.github.io/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>  
+  <a href="https://ahmadarialdino.github.io/" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/ahmadarialdino" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://mail.google.com/mail/?view=cm&to=aldino@teknokrat.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.facebook.com/arialdino" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
