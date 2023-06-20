@@ -2,7 +2,7 @@
 
 <p align="justify">
 Ahmad Ari Aldino is a PhD student in [Decision Tree C4. 5 Algorithm for Tuition Aid Grant Program Classification](https://journal.trunojoyo.ac.id/edutic/article/view/8849)[the Centre for Learning Analytics](https://www.monash.edu/colam) and a Teaching Associate in the Faculty of Information Technology at Monash University, Australia. Prior to joining Monash University, he held the position of Lecturer (Assistant Professor) in the Faculty of Engineering and Computer Sciences at Universitas Teknokrat Indonesia. He obtained his BSc and MSc in Mathematics from Universitas Lampung, Indonesia. His research interests lie in the areas of Artificial Intelligence in Education, Natural Language Processing, Learning Analytics, and Educational Data Mining.
-</p>
+<!-- </p> -->
 
 ## 📃 Latest Articles
 
