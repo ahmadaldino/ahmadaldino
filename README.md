@@ -1,7 +1,8 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Aldino 🧑🏻
 
 <p align="justify">
-  I am a PhD student in Data Science at Monash University Australia and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+Ahmad Ari Aldino is a PhD student in the Centre for Learning Analytics and a Teaching Associate in the Faculty of Information Technology at Monash University, Australia. Prior to joining Monash University, he held the position of Lecturer (Assistant Professor) in the Faculty of Engineering and Computer Sciences at Universitas Teknokrat Indonesia. He obtained his BSc and MSc in Mathematics from Universitas Lampung, Indonesia. His research interests lie in the areas of Artificial Intelligence in Education, Natural Language Processing, Learning Analytics, and Educational Data Mining.![image](https://github.com/ahmadarialdino/ahmadarialdino/assets/71827604/e1dcdbba-a03e-4b69-a1da-a62bf5424ad3)
+
 </p>
 
 ## 📃 Latest Articles
